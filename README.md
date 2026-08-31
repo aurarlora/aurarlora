@@ -3,15 +3,26 @@
 
 # Dra. Aura Ramos Lora
 
-### Ciencias de Información Geoespacial · SIG · Teledetección · Inteligencia Artificial
+**Transformación e integración de datos para el análisis espacial**
 
-Doctora en Ciencias de Información Geoespacial, con experiencia en el análisis
-e integración de información geoespacial, teledetección, hidrogeología y
-desarrollo de herramientas computacionales.
+### Ciencias de Información Geoespacial · Análisis Espacial · SIG · Ciencia de Datos · Inteligencia Artificial
 
-Mi trabajo integra información satelital, Sistemas de Información Geográfica
-y técnicas de aprendizaje automático para el estudio de los recursos hídricos
-y el análisis territorial.
+Doctora en Ciencias de Información Geoespacial, especializada en el análisis,
+integración y transformación de información geoespacial y temporal. Mi trabajo
+abarca desde la depuración y estandarización de datos hasta la transformación
+de grandes volúmenes de información heterogénea en conjuntos de datos
+coherentes, susceptibles de análisis espacial y de ser utilizados en modelos
+y arquitecturas de inteligencia artificial.
+
+Trabajo con información de distinta naturaleza y procedencia: desde datos
+tabulares y vectoriales hasta información ráster, series temporales y productos
+satelitales, integrándolos mediante Sistemas de Información Geográfica y
+herramientas computacionales para su análisis, representación y modelado espacial.
+
+He aplicado estas metodologías principalmente en geología, hidrogeología,
+geología ambiental, recursos hídricos y análisis territorial, incorporando
+cuando el problema lo requiere técnicas de aprendizaje automático y
+aprendizaje profundo.
 
 ---
 
