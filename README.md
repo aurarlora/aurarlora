@@ -2,7 +2,7 @@
   <strong>English</strong> | <a href="README_ES.md">Español</a>
 </p>
 
-![Banner](nube.png)
+![Banner](header_git.png)
 
 # Aura Ramos Lora, PhD
 
