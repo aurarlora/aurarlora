@@ -4,7 +4,7 @@
 
 ![Banner](nube.png)
 
-# Dr. Aura Ramos Lora
+# Aura Ramos Lora, PhD
 
 **Data Integration and Transformation for Spatial Analysis**
 
