@@ -49,9 +49,15 @@ aprendizaje profundo.
 
 ## Investigación y desarrollo
 
-### 🗺️ SecGeol
+### 🗺️ [SecGeol](https://github.com/aurarlora/secgeol)
+
 Plugin para QGIS orientado a la construcción y análisis de secciones
 geológicas en 2D y 3D.
+
+**Python · PyQGIS · QGIS · Qt**
+
+📖 [Manual de usuario](https://aurarlora.github.io/secgeol/es/)
+
 
 **Python · PyQGIS · QGIS · Qt**
 
