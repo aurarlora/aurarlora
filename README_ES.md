@@ -59,7 +59,6 @@ geológicas en 2D y 3D.
 📖 [Manual de usuario](https://aurarlora.github.io/secgeol/es/)
 
 
-**Python · PyQGIS · QGIS · Qt**
 
 ### 💧 Groundwater Storage & Artificial Intelligence
 Investigación orientada al análisis de la variabilidad del almacenamiento
