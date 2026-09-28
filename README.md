@@ -35,11 +35,14 @@ geospatial problems.
 
 ## Featured Projects
 
-### 🗺️ SecGeol
-QGIS plugin for the construction and analysis of 2D and 3D geological
-cross-sections from DEMs and vector geological information.
+### 🗺️ [SecGeol](https://github.com/aurarlora/secgeol)
+
+QGIS plugin for the construction and analysis of 2D and 3D geological cross-sections from DEMs and vector geological information.
 
 **Python · PyQGIS · QGIS · Qt**
+
+📖 [User Manual](https://aurarlora.github.io/secgeol/)
+
 
 ### 🌎 Geospatial Analysis & Data Integration
 Development of workflows for cleaning, transforming, integrating, and analyzing
