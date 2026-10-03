@@ -41,6 +41,8 @@ QGIS plugin for the construction and analysis of 2D and 3D geological cross-sect
 
 **Python · PyQGIS · QGIS · Qt**
 
+🧩 [QGIS Plugin Repository](https://plugins.qgis.org/plugins/secgeol/)
+
 📖 [User Manual](https://aurarlora.github.io/secgeol/)
 
 
