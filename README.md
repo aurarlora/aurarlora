@@ -8,28 +8,15 @@
 
 **Data Integration and Transformation for Spatial Analysis**
 
-### Geospatial Information Science · Spatial Analysis · GIS · Data Science · Artificial Intelligence
+### Geospatial Information Sciences · Spatial Analysis · GIS · Data Science · Artificial Intelligence
 
-I hold a PhD in Geospatial Information Science and specialize in the integration,
-transformation, and spatial analysis of heterogeneous data.
+I hold a PhD in Geospatial Information Sciences, with experience in data integration and analysis, process automation, and the development of computational tools for geosciences. I transform heterogeneous information into structured, reproducible datasets for spatial analysis, modeling, and use in artificial intelligence systems.
 
-My work spans the complete geospatial data workflow: from data extraction, cleaning,
-standardization, and integration to spatial and temporal analysis, visualization,
-modeling, and the preparation of structured datasets for computational and
-artificial intelligence applications.
+I work with tabular, vector, and raster data, time series, and satellite products. I integrate these sources through Geographic Information Systems and programming, from data cleaning and standardization to analysis, visualization, and the generation of technical and scientific outputs.
 
-I work with multiple types of information — from tabular and vector data to raster,
-satellite imagery, time series, and multidimensional scientific datasets — transforming
-them into consistent geospatial information that can be analyzed, modeled, and
-interpreted spatially.
+I develop solutions to automate field data collection and validation, facilitate analytical processes, and build reusable geospatial tools. My developments include SecGeol, a free and open-source plugin published in the official QGIS plugin repository to support the construction of geological cross-sections.
 
-My experience combines **GIS, scientific programming, spatial data science,
-remote sensing, and machine learning**, with applications in geology,
-environmental analysis, groundwater, and territorial studies.
-
-I also develop computational tools and geospatial workflows, particularly in
-**Python and QGIS/PyQGIS**, to automate spatial analysis and solve specialized
-geospatial problems.
+My experience encompasses applications in geology, hydrogeology, environmental geology, water resources, and territorial analysis. I incorporate machine learning and deep learning techniques when appropriate to the problem, with attention to data quality, validation of results, and the usefulness of the solutions.
 
 ---
 
@@ -62,14 +49,12 @@ and environmental datasets, including multidimensional satellite and climate dat
 
 ## Professional Profile
 
-📄 **[Curriculum Vitae — PDF](CV_Aura_Ramos_Lora.pdf)**
-
 🏅 **[Certificates & Professional Recognition](https://aurarlora.github.io/web_certificados/)**
 
 ---
 
 ## Tools & Technologies
 
-`Python` · `QGIS` · `PyQGIS` · `GeoPandas` · `Pandas` · `NumPy` ·
-`Rasterio` · `Xarray` · `Shapely` · `GDAL` · `Scikit-learn` ·
+`Python` · `QGIS` · `PyQGIS` · `GeoPandas` · `Pandas` · `NumPy` · `QField` ·`QFieldCloud` ·
+`Rasterio` · `Xarray` · `Shapely` · `GDAL` · `Scikit-learn` ·`ArcGis`· `Arcpy`
 `TensorFlow` · `Git` · `GitHub`
