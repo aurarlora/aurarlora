@@ -24,7 +24,7 @@ My experience encompasses applications in geology, hydrogeology, environmental g
 
 🏅 **[Certificates & Professional Recognition](https://aurarlora.github.io/web_certificados/)**
 
-**ORCID:** [0009-0008-8093-8440](https://orcid.org/0009-0008-8093-8440)
+*ORCID:* [0009-0008-8093-8440](https://orcid.org/0009-0008-8093-8440)
 ---
 
 ## Featured Projects
