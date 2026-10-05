@@ -61,7 +61,7 @@ y arquitecturas de aprendizaje profundo.
 Desarrollo de metodologías y herramientas para el procesamiento,
 integración y análisis de información espacial.
 
-### 🌎 Automatización y Desarrollo 
+### 🛰️🐍💻 Automatización y Desarrollo 
 Desarrollo de herramientas para la captura de información en campo y el procesamiento de datos, así como de interfaces para su consulta y descarga.
 
 ---
