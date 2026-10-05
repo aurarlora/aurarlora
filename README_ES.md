@@ -22,9 +22,9 @@ Mi experiencia comprende aplicaciones en geología, hidrogeología, geología am
 
 ## Perfil profesional
 
-📄 **[Curriculum Vitae — PDF](CV_Aura_Ramos_Lora.pdf)**
-
 🏅 **[Certificados y reconocimientos profesionales](https://aurarlora.github.io/web_certificados/)**
+
+### **ORCID:** [0009-0008-8093-8440](https://orcid.org/0009-0008-8093-8440)
 
 ---
 
