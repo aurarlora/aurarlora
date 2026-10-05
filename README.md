@@ -26,7 +26,6 @@ My experience encompasses applications in geology, hydrogeology, environmental g
 
 QGIS plugin for the construction and analysis of 2D and 3D geological cross-sections from DEMs and vector geological information.
 
-**Python · PyQGIS · QGIS · Qt**
 
 🧩 [QGIS Plugin Repository](https://plugins.qgis.org/plugins/secgeol/)
 
@@ -56,5 +55,5 @@ and environmental datasets, including multidimensional satellite and climate dat
 ## Tools & Technologies
 
 `Python` · `QGIS` · `PyQGIS` · `GeoPandas` · `Pandas` · `NumPy` · `QField` ·`QFieldCloud` ·
-`Rasterio` · `Xarray` · `Shapely` · `GDAL` · `Scikit-learn` ·`ArcGis`· `Arcpy`
-`TensorFlow` · `Git` · `GitHub`
+`Rasterio` · `Xarray` · `Shapely` · `GDAL` · `Scikit-learn` ·`ArcGis`· `Arcpy`·
+`TensorFlow` · `Git` · `GitHub`. `Rasterio` · `NetCDF` 
