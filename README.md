@@ -20,6 +20,12 @@ My experience encompasses applications in geology, hydrogeology, environmental g
 
 ---
 
+## Professional Profile
+
+🏅 **[Certificates & Professional Recognition](https://aurarlora.github.io/web_certificados/)**
+
+---
+
 ## Featured Projects
 
 ### 🗺️ [SecGeol](https://github.com/aurarlora/secgeol)
@@ -50,13 +56,6 @@ Development of tools for field data collection and data processing, as well as i
 
 ---
 
-## Professional Profile
-
-🏅 **[Certificates & Professional Recognition](https://aurarlora.github.io/web_certificados/)**
-
-
-
----
 
 ## Tools & Technologies
 
