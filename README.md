@@ -44,11 +44,17 @@ and environmental datasets, including multidimensional satellite and climate dat
 
 **Scikit-learn · TensorFlow · MLP · CNN · LSTM · CRNN**
 
+### 🛰️🐍💻 Automation and Development
+Development of tools for field data collection and data processing, as well as interfaces for accessing and downloading data.
+
+
 ---
 
 ## Professional Profile
 
 🏅 **[Certificates & Professional Recognition](https://aurarlora.github.io/web_certificados/)**
+
+
 
 ---
 
