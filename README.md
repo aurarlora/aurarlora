@@ -22,20 +22,19 @@ My experience encompasses applications in geology, hydrogeology, environmental g
 
 ## Professional Profile
 
-🏅 **[Certificates & Professional Recognition](https://aurarlora.github.io/web_certificados/)**
+🎓 **[Academic Degrees, Certificates & Professional Recognition](https://aurarlora.github.io/web_certificados/)**
 
-### **ORCID:** [0009-0008-8093-8440](https://orcid.org/0009-0008-8093-8440)
+**ORCID:** [0009-0008-8093-8440](https://orcid.org/0009-0008-8093-8440)
 ---
 
 ## Featured Projects
 
 ### 🗺️ [SecGeol](https://github.com/aurarlora/secgeol)
 
-QGIS plugin for the construction and analysis of 2D and 3D geological cross-sections from DEMs and vector geological information.
+Free and open-source QGIS plugin for the construction and analysis of 2D and 3D
+geological cross-sections from DEMs and vector geological information.
 
-
-🧩 [QGIS Plugin Repository](https://plugins.qgis.org/plugins/secgeol/)
-
+🧩 [Official QGIS Plugin Repository](https://plugins.qgis.org/plugins/secgeol/)  
 📖 [User Manual](https://aurarlora.github.io/secgeol/)
 
 
@@ -60,6 +59,6 @@ Development of tools for field data collection and data processing, as well as i
 
 ## Tools & Technologies
 
-`Python` · `QGIS` · `PyQGIS` · `GeoPandas` · `Pandas` · `NumPy` · `QField` ·`QFieldCloud` ·
-`Rasterio` · `Xarray` · `Shapely` · `GDAL` · `Scikit-learn` ·`ArcGis`· `Arcpy`·
-`TensorFlow` · `Git` · `GitHub`. `Rasterio` · `NetCDF` 
+`Python` · `QGIS` · `PyQGIS` · `QField` · `QFieldCloud` · `ArcGIS` · `ArcPy` ·  
+`GeoPandas` · `Pandas` · `NumPy` · `Rasterio` · `Xarray` · `Shapely` · `GDAL` ·  
+`Scikit-learn` · `TensorFlow` · `NetCDF` · `Git` · `GitHub`
